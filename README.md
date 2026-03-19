@@ -10,7 +10,7 @@ reflection on what I have learned, and things that stood out to me.
 
 ## Progress
 
-- [x] 1. Learn to Code in Python
+- [ ] 1. Learn to Code in Python
 - [ ] 2. Learn Linux
 - [ ] 3. Build a Bookbot
 - [ ] 4. Learn Git
