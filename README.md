@@ -1,6 +1,6 @@
 # Boot.dev - Back-end Developer Path
-
-My progress through Boot.dev's full Back-end Developer Path.
+Goal: Learn how to code.
+Contents: My progress through Boot.dev's full Back-end Developer Path. As well as some other additional resources such as the Mimo mobile app (learn to code app).
 
 Each folder contains some of my work from that course, a bit of 
 reflection on what I have learned, and things that stood out to me.
